@@ -3,7 +3,7 @@
 #### [https://blogs-9bef6.web.app/](https://blogs-9bef6.web.app/)    
 
 ## 제작 기간
-4월 30일 ~ 5월 3일  
+4월 30일 ~ 5월 3일 (4일)  
 1인 개발
 
 
